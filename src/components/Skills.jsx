@@ -1,13 +1,5 @@
 import Image from "next/image"
-import allSkills from "../allSkills"
-import HtmlImg from '../../public/assets/skills/html.png'
-// import HtmlImg from '../../public/assets/skillshtml.png'
-// import HtmlImg from '../../public/assets/skillshtml.png'
-// import HtmlImg from '../../public/assets/skillshtml.png'
-// import HtmlImg from '../../public/assets/skillshtml.png'
-// import HtmlImg from '../../public/assets/skillshtml.png'
-// import HtmlImg from '../../public/assets/skillshtml.png'
-// import HtmlImg from '../../public/assets/skillshtml.png'
+import allSkills from "../utils/allSkills"
 
 export default function Skills() {
 
